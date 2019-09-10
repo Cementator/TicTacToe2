@@ -2,7 +2,7 @@
 
 ## Project setup
 
-Jel nismo stavili npm da se koristi?
+With yarn.
 
 ```
 yarn install
